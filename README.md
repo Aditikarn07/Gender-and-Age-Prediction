@@ -2,7 +2,6 @@
 
 ### About the project
 
-![landing_page]
 
 A gender detection and age prediction web application developed using Flask, Open CV, HTML &amp; CSS
 
@@ -11,9 +10,6 @@ A gender detection and age prediction web application developed using Flask, Ope
 
 * The frontend of the application is built using HTML & CSS
 * The backend is built using Flask and Open CV
-
-### My Teammates
-[![anchitya-shield]][anchitya] [![rhys-shield]][rhys] [![shaadman-shield]][shaadman]
 
 ### My Contribution
 Built the backend solution of the application. Integrated the OpenCV code as well as frontend developed by my fellow teammates with the flask backend.
@@ -59,7 +55,6 @@ Contributions are what make the open source community such an amazing place to b
 
 
 <!-- Links -->
-[landing_page]: ./Screenshots/Landing.PNG
 [python-shield]: https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&style=for-the-badge
 [open-cv]: https://img.shields.io/badge/-OpenCV-red?logo=opencv&logoColor=white&style=for-the-badge
 [flask]: https://img.shields.io/badge/-Flask-black?logo=flask&logoColor=white&style=for-the-badge
